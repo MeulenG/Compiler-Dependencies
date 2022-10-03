@@ -1,2 +1,3 @@
 # Compiler-Dependencies
-Dependencies for Compiler project
+This repo is explicitely used list submodules, scripts and other things needing installing in order to compile and use my Compiler!
+
